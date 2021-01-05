@@ -2,7 +2,7 @@
 {
     'name': 'Etats syscohada en pdf',
     'version': '0.2.0',
-    'price': 315.99,
+#     'price': 315.99,
     'currency': 'EUR',
     'license': 'AGPL-3',
     'summary': """
